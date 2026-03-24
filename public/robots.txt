@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-word-counter.codama.dev/sitemap.xml

@@ -1,0 +1,126 @@
+{
+  "app": {
+    "title": "Wortzähler",
+    "tagline": "Wörter, Zeichen und Sätze sofort zählen"
+  },
+  "pageHeader": {
+    "title": "Kostenloser Wortzähler",
+    "subtitle": "Zählen Sie Wörter, Zeichen, Sätze und Absätze. Schätzen Sie die Lesezeit. Verfolgen Sie die Keyword-Dichte."
+  },
+  "tool": {
+    "words": "Wörter",
+    "characters": "Zeichen",
+    "charactersNoSpaces": "Zeichen (ohne Leerzeichen)",
+    "sentences": "Sätze",
+    "paragraphs": "Absätze",
+    "readingTime": "Lesezeit",
+    "speakingTime": "Sprechzeit",
+    "minutes": "Min",
+    "seconds": "Sek",
+    "keywordDensity": "Keyword-Dichte",
+    "keyword": "Keyword",
+    "count": "Anzahl",
+    "density": "Dichte",
+    "clear": "Löschen",
+    "placeholder": "Beginnen Sie mit der Eingabe oder fügen Sie Ihren Text hier ein...",
+    "topKeywords": "Top Keywords",
+    "noText": "Beginnen Sie mit der Eingabe, um Statistiken zu sehen"
+  },
+  "theme": {
+    "toggle": "Design wechseln",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System"
+  },
+  "share": {
+    "title": "Gefällt es dir? Teile es!",
+    "description": "Hilf anderen, dieses kostenlose Tool zu entdecken",
+    "message": "Schau dir diesen kostenlosen Wortzähler von Codama an - Wörter, Zeichen und Sätze sofort zählen!",
+    "button": "Teilen",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "x": "X (Twitter)",
+    "linkedin": "LinkedIn",
+    "email": "E-Mail",
+    "copyLink": "Link kopieren",
+    "copied": "Kopiert!",
+    "linkCopied": "Link in die Zwischenablage kopiert",
+    "copyFailed": "Link konnte nicht kopiert werden",
+    "hideAfterDownload": "Nicht mehr anzeigen",
+    "scanOrShare": "Teile es mit den Buttons unten",
+    "shareVia": "Wähle deine bevorzugte Art zu teilen",
+    "freeForever": "100% kostenlos, für immer. Für die Community gemacht.",
+    "cardHint": "Hilf anderen, dieses Tool zu entdecken"
+  },
+  "footer": {
+    "createdWith": "Erstellt mit",
+    "freeBy": "100% kostenlos für die Community von",
+    "moreTools": "Weitere kostenlose Tools von Codama"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "he": "עברית"
+  },
+  "nav": {
+    "menu": "Menü",
+    "home": "Startseite",
+    "about": "Über uns",
+    "getAQuote": "Angebot einholen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "about": {
+    "intro": "Diese Seite wurde vom Codama-Team erstellt. Wir sind eine Software-Agentur, die digitale Produkte entwickelt und Unternehmen beim Wachstum hilft.",
+    "hero": {
+      "title": "Wir bringen Ihre digitale Vision zum Leben. Smart, skalierbar und startbereit.",
+      "subtitle": "Wir arbeiten mit Ihnen zusammen, um maßgeschneiderte Lösungen zu entwickeln, die Ihrem Unternehmen helfen zu wachsen."
+    },
+    "getAQuote": "Angebot einholen",
+    "backToTool": "Zurück zum Wortzähler",
+    "ourServices": "Unsere Leistungen",
+    "services": {
+      "webApps": {
+        "title": "Webanwendungen",
+        "description": "Wir entwickeln maßgeschneiderte Webanwendungen, die schnell, zuverlässig und benutzerfreundlich sind.",
+        "tag1": "Responsives Design",
+        "tag2": "Moderner Stack",
+        "tag3": "Hohe Leistung"
+      },
+      "mobile": {
+        "title": "Mobile Anwendungen",
+        "description": "Wir entwerfen und entwickeln mobile Apps, die zu Ihren Geschäftszielen passen.",
+        "tag1": "Nativ & Plattformübergreifend",
+        "tag2": "Intuitive UX",
+        "tag3": "Skalierbare Architektur"
+      },
+      "automation": {
+        "title": "Automatisierung & KI-Integration",
+        "description": "Wir helfen Ihnen, Zeit zu sparen und intelligenter zu arbeiten, indem wir KI-Tools und Automatisierung in Ihr Unternehmen integrieren.",
+        "tag1": "Prozessautomatisierung",
+        "tag2": "KI-Tools",
+        "tag3": "Workflow-Effizienz"
+      },
+      "dataBi": {
+        "title": "Daten & BI-Lösungen",
+        "description": "Wir verwandeln Ihre Geschäftsdaten in klare, umsetzbare Erkenntnisse.",
+        "tag1": "Individuelle Dashboards",
+        "tag2": "Plattform-Integration",
+        "tag3": "Umsetzbare Erkenntnisse"
+      },
+      "businessWebsites": {
+        "title": "Unternehmenswebsites",
+        "description": "Wir erstellen moderne, leicht zu verwaltende WordPress-Websites, die großartig aussehen und auf jedem Gerät funktionieren.",
+        "tag1": "WordPress-Experten",
+        "tag2": "Geschäftsbereit",
+        "tag3": "SEO-freundlich"
+      }
+    },
+    "whyChoose": {
+      "title": "Warum Codama wählen",
+      "quote": "Sie kennen Ihr Unternehmen am besten. Deshalb hören wir zuerst zu und tauchen dann in Ihre Branche ein."
+    }
+  }
+}
